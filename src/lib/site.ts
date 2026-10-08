@@ -8,7 +8,7 @@
  */
 
 export const CONTACT = {
-  email: "tech@limasilva.com",
+  email: "tech@limasilva.dev",
   responseTime: "Resposta em até 24h",
 };
 
